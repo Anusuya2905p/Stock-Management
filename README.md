@@ -13,6 +13,9 @@ Responsive design for various screen sizes
 Technologies Used
 
 Next.js
+
 React
+
 CSS (with Tailwind classes)
+
 MongoDB
