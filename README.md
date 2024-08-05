@@ -1,6 +1,7 @@
 # Stock-Management
 Stock Management System
 This is a Next.js-based Stock Management System that allows users to search for products, add new products, and manage inventory levels.
+
 Features
 
 Search products with real-time dropdown suggestions
